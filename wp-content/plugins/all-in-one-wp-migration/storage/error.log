@@ -1,0 +1,762 @@
+Nov 07 2023 21:28:35
+{"Number":2,"Message":"rmdir(C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\brmtv7tzxxbc): Directory not empty","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\filesystem\\class-ai1wm-directory.php","Line":72}
+
+Nov 07 2023 21:28:35
+{"Number":2,"Message":"filesize(): stat failed for C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\brmtv7tzxxbc\\samsung-campaign.local-20231107-212834-n500sz.wpress","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-archiver.php","Line":231}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:56:52
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:06
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:16
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:26
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:36
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:46
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
+Nov 07 2023 21:57:57
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\Users\\Frikk\\Local Sites\\samsung-campaign\\app\\public\\wp-includes\\formatting.php","Line":2827}
+
